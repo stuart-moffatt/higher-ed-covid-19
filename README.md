@@ -1,4 +1,4 @@
-# Coronavirus (Covid-19) Data in the United States related to Colleges and Universities
+# List of Colleges’ Plans for Reopening in the Fall
 
 ## Data
 
