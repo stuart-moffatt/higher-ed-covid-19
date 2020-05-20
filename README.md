@@ -8,6 +8,7 @@ which prevent it being a "clean" data set for use in further analysis. So, this 
 
 Original article with graphs, tables and links to data: https://www.chronicle.com/article/Here-s-a-List-of-Colleges-/248626
 
+Download the most recent CSV here: https://github.com/stuart-moffatt/higher-ed-covid-19/blob/master/higher-ed-campus-fall-plans.csv
 
 ## Contributors
 Stuart Moffatt
